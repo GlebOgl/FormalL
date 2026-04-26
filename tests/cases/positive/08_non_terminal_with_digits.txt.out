@@ -1,0 +1,4 @@
+NON_TERM     | Expr2           | Line: 1   | Col: 1
+ARROW        | ->              | Line: 1   | Col: 7
+TERM         | 'n'             | Line: 1   | Col: 10
+SEMICOLON    | ;               | Line: 1   | Col: 13

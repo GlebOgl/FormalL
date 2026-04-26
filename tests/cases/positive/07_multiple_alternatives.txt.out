@@ -1,0 +1,8 @@
+NON_TERM     | A               | Line: 1   | Col: 1
+ARROW        | ->              | Line: 1   | Col: 3
+TERM         | 'a'             | Line: 1   | Col: 6
+PIPE         | |               | Line: 1   | Col: 10
+TERM         | 'b'             | Line: 1   | Col: 12
+PIPE         | |               | Line: 1   | Col: 16
+EPSILON      | eps             | Line: 1   | Col: 18
+SEMICOLON    | ;               | Line: 1   | Col: 22

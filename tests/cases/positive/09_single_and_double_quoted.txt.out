@@ -1,0 +1,6 @@
+NON_TERM     | A               | Line: 1   | Col: 1
+ARROW        | ->              | Line: 1   | Col: 3
+TERM         | 'id'            | Line: 1   | Col: 6
+PIPE         | |               | Line: 1   | Col: 11
+TERM         | "num"           | Line: 1   | Col: 13
+SEMICOLON    | ;               | Line: 1   | Col: 19

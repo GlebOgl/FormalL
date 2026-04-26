@@ -1,0 +1,4 @@
+NON_TERM     | Rule            | Line: 3   | Col: 1
+ARROW        | ->              | Line: 3   | Col: 6
+TERM         | 'a'             | Line: 3   | Col: 9
+SEMICOLON    | ;               | Line: 3   | Col: 12
