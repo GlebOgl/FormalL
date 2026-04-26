@@ -1,0 +1,21 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.installed.cfg
+*.egg
+build/
+dist/
+
+# --- UV и окружение ---
+.venv/
+.uv/
+
+# --- Тестовые артефакты ---
+*.out
+
+# --- Системное ---
+.DS_Store
+.idea/
+.vscode/
