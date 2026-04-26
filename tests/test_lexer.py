@@ -21,7 +21,7 @@ NEGATIVE_CASES = sorted(NEGATIVE_CASES_DIR.glob("*.txt"))
 
 def run_cli(input_file):
     return subprocess.run(
-        [sys.executable, str(ROOT_DIR / "src" / "main.py"), str(input_file)],
+        [sys.executable, "-m", "src.main", str(input_file)],
         cwd=ROOT_DIR,
         capture_output=True,
         text=True,
